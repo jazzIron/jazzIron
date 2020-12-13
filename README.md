@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=#61DAFB&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=#61DAFB&logoColor=white"/></a>
 
 ![LeeJaeChul's github stats](https://github-readme-stats.vercel.app/api?username=LeeJaeChul&show_icons=true&theme=tokyonight)
 
