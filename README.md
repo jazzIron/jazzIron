@@ -2,11 +2,7 @@
 
 <h1 align="center" font-weight: 800>JAECHULLEE</h1>
 
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="https://simpleicons.org/-React-61DAFB?style=flat&logo=React"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=#61DAFB"/></a>&nbsp 
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJaeChul%2Fhit-counter&count_bg=%23FFE300&title_bg=%23003BFF&icon=aiqfome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
