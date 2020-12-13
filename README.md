@@ -33,5 +33,5 @@
 ![LeeJaeChul's github stats](https://github-readme-stats.vercel.app/api?username=LeeJaeChul&show_icons=true&theme=tokyonight)
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=&fontSize=30)
 
