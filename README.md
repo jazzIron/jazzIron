@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=#61DAFB&logoColor=white"/></a>&nbsp 
+
 ![LeeJaeChul's github stats](https://github-readme-stats.vercel.app/api?username=LeeJaeChul&show_icons=true&theme=tokyonight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeeJaeChul)](https://github.com/anuraghazra/github-readme-stats)
