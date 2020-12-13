@@ -7,7 +7,7 @@
 <h1 align="center" font-weight: 800>JAECHULLEE</h1>
 
 
-:space_invader: Tech Stack
+<h3 font-weight:700> :space_invader: Tech Stack </h3>
 
 * <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
