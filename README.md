@@ -1,11 +1,7 @@
 ### Hi there 👋 
-<style>
-    .test{
-      text-align : right:
-    }
-</style>
 
-<div class="test">TEST</div>
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJaeChul%2Fhit-counter&count_bg=%23FFE300&title_bg=%23003BFF&icon=aiqfome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h1 align="center" font-weight: 800>JAECHULLEE</h1>
