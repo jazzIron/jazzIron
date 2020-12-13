@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 ![LeeJaeChul's github stats](https://github-readme-stats.vercel.app/api?username=LeeJaeChul&show_icons=true&theme=tokyonight)
 
+[![LeeJaeChul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeeJaeChul)](https://github.com/anuraghazra/github-readme-stats)
