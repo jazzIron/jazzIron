@@ -28,10 +28,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-<div style="width:50%;">
+<div>
   ![LeeJaeChul's github stats](https://github-readme-stats.vercel.app/api?username=LeeJaeChul&show_icons=true&theme=tokyonight)
 </div>
-<div style="width:50%;">
+<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJaeChul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
