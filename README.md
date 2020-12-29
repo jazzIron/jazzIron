@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### `yarn start`
+### `Hi there 👋`
 
 # JAECHULLEE
 
