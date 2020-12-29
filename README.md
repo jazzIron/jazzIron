@@ -1,10 +1,7 @@
-### `Hi there 👋`
-
-# JAECHUL<span style="color:green">LEE</span>  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJaeChul%2Fhit-counter&count_bg=%23FFE300&title_bg=%23003BFF&icon=aiqfome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-This project was bootstrapped with [http://localhost:3000](http://localhost:3000)
 
 <img src="https://i.ibb.co/7JvBvtH/image.gif" width="100%" height="100%" title="" alt="title_banner"></img><br/>
+
+# JAECHULLEE  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJaeChul%2Fhit-counter&count_bg=%23FFE300&title_bg=%23003BFF&icon=aiqfome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### 📝 _Tech Stack_
 
@@ -36,4 +33,3 @@ This project was bootstrapped with [http://localhost:3000](http://localhost:3000
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzIron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=&fontSize=30)
