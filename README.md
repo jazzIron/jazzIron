@@ -29,10 +29,10 @@
 </div>
 
 
-  ![LeeJaeChul's github stats](https://github-readme-stats.vercel.app/api?username=LeeJaeChul&show_icons=true&theme=tokyonight)
+  ![LeeJaeChul's github stats](https://github-readme-stats.vercel.app/api?username=jazzIron&show_icons=true&theme=tokyonight)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJaeChul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzIron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
