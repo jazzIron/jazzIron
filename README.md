@@ -25,6 +25,9 @@
 
 #### 💡 _GitHub Stats_
 
+![jazziron GitHub Stats](https://dooboo.io/api/github-stats-advanced?login=jazziron)
+![jazziron GitHub Trophies](https://dooboo.io/api/github-trophies?login=jazziron)
+
 ![LeeJaeChul's github stats](https://github-readme-stats.vercel.app/api?username=jazzIron&show_icons=true&theme=tokyonight)
 
 ***
